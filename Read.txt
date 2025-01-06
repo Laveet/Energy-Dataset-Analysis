@@ -1,0 +1,10 @@
+This energy dataset is sourced from a Coursera exercise.
+In Excel file I have performed different visualization task by pivot tables.
+In Python file i practice my concepts and techniques for data exploration and visualization.
+1. Total Electricity generation from both renewable and non renewable is calculated.
+2. Unit of electricity capacity and electricity generation is changed from MW to TW.
+3. Those technologies having total capacity share less than 2% were combinges in one category 'Other'.
+4. Then total installed capacity of each tech is visualized by bar graph and their percentage is visualized by pie chart.
+5.Top 10 countries having highest total installed capacities are sorted out. 
+6. Total electricity generation from these short listed countries in each year is presented in a pivot table.
+7. Total electricity generation trend is visualized in a chart.
